@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284593239989",
+    "project_id": "rabbit-f6603",
+    "storage_bucket": "rabbit-f6603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284593239989:android:357f9d100f76b3dd284bfc",
+        "android_client_info": {
+          "package_name": "com.example.online_banking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgNoW73bRgErfxulbLTH0uuRlmWx2x8nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
